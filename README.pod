@@ -1,11 +1,12 @@
-#!/usr/bin/perl
-package Bundle::SYP;
-# ABSTRACT: SYP's cozy environment
+=encoding utf8
 
-use strict;
-# VERSION
+=head1 NAME
 
-1;
+Bundle::SYP - SYP's cozy environment
+
+=head1 VERSION
+
+version 0.1
 
 =head1 SYNOPSIS
 
@@ -125,4 +126,14 @@ common::sense
 
 lexicals
 
-=cut
+=head1 AUTHOR
+
+Stanislaw Pusep <stas@sysd.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2011 by Stanislaw Pusep.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
