@@ -13,6 +13,10 @@ use strict;
 
 =head1 CONTENTS
 
+Object::ID
+
+Term::ANSIColor
+
 AnyEvent
 
 App::Ack
@@ -21,13 +25,17 @@ App::cpanminus
 
 App::cpanoutdated
 
-DBD::SQLite
-
-DBI
+Config::General
 
 DB_File
 
+Daemon::Generic
+
 Data::Printer
+
+DateTime::Format::Strptime
+
+Devel::NYTProf
 
 Devel::REPL
 
@@ -61,6 +69,8 @@ Dist::Zilla::PluginBundle::TestingMania
 
 EV
 
+File::Slurp
+
 Geo::Distance
 
 Geo::GoogleEarth::Pluggable
@@ -79,11 +89,15 @@ LWP::Simple
 
 Mojolicious
 
-MongoDB
-
 Moose
 
+Number::Format
+
+Perl::Critic
+
 Perl::Tags
+
+Perl::Tidy
 
 Pod::Elemental
 
@@ -120,6 +134,8 @@ URI::sftp
 Unicode::CheckUTF8
 
 WWW::Curl
+
+XML::SAX::ExpatXS
 
 common::sense
 
