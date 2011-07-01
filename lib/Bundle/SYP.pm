@@ -9,13 +9,18 @@ use strict;
 
 =head1 SYNOPSIS
 
+ # Ubuntu Server 10.04.2 LTS
+ apt-get install curl gcc git-core libcurl4-gnutls-dev libexpat-dev libncurses-dev libreadline-dev
+
  perl -MCPAN -e 'install Bundle::SYP'
 
 =head1 CONTENTS
 
-Object::ID
+YAML
 
 Term::ANSIColor
+
+Object::ID
 
 AnyEvent
 
@@ -60,8 +65,6 @@ Dist::Zilla::Plugin::OurPkgVersion
 Dist::Zilla::Plugin::PodWeaver
 
 Dist::Zilla::Plugin::ReadmeAnyFromPod
-
-Dist::Zilla::Plugin::VersionFromModule
 
 Dist::Zilla::PluginBundle::Git
 
