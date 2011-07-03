@@ -1,3 +1,4 @@
+.build/
 Bundle-SYP-*/
 *.bak
 *.gz
