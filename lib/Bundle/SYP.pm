@@ -32,6 +32,8 @@ App::cpanminus
 
 App::cpanoutdated
 
+App::pmodinfo
+
 Bash::Completion::Plugins::cpanm
 
 Bash::Completion::Plugins::perlbrew
@@ -56,6 +58,8 @@ Digest::MD5
 
 Digest::SHA
 
+Digest::SHA1
+
 Dist::Zilla
 
 Dist::Zilla::Plugin::CopyFilesFromBuild
@@ -78,6 +82,8 @@ Dist::Zilla::PluginBundle::TestingMania
 
 EV
 
+File::ShareDir
+
 File::Slurp
 
 Geo::Distance
@@ -95,6 +101,8 @@ List::MoreUtils
 Log::Log4perl
 
 LWP::Simple
+
+Memoize
 
 Mojolicious
 
