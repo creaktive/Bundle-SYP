@@ -11,8 +11,8 @@ use warnings 'all';
 
 =head1 SYNOPSIS
 
- # Ubuntu Server 10.04.2 LTS
- apt-get install curl gcc git-core libcurl4-gnutls-dev libexpat-dev libncurses-dev libreadline-dev
+ # Debian >= 5.0; Perl >= 5.14
+ sudo apt-get install curl gcc git-core libcurl4-gnutls-dev libdb-dev libexpat-dev libncurses-dev libreadline-dev libxml2-dev
 
  perl -MCPAN -e 'install Bundle::SYP'
 
@@ -108,6 +108,10 @@ Mojolicious
 
 Moose
 
+MooseX::NonMoose
+
+Net::Curl
+
 Number::Format
 
 Perl::Critic
@@ -117,6 +121,8 @@ Perl::Tags
 Perl::Tidy
 
 Pod::Elemental
+
+Pod::Elemental::Transformer::List
 
 Pod::Simple
 
