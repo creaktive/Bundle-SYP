@@ -40,6 +40,8 @@ Bash::Completion::Plugins::perlbrew
 
 Config::General
 
+DBD::SQLite
+
 DB_File
 
 Daemon::Generic
@@ -106,6 +108,8 @@ Memoize
 
 Mojolicious
 
+MongoDB
+
 Moose
 
 MooseX::NonMoose
@@ -141,6 +145,8 @@ Term::ReadLine::Gnu
 Text::CSV
 
 Text::CSV_XS
+
+Text::TabularDisplay
 
 Text::Unidecode
 
