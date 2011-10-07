@@ -168,6 +168,8 @@ Unicode::CheckUTF8
 
 WWW::Curl
 
+XML::Rabbit
+
 XML::SAX::ExpatXS
 
 common::sense
