@@ -42,6 +42,8 @@ Config::General
 
 DBD::SQLite
 
+DBIx::Class
+
 DB_File
 
 Daemon::Generic
@@ -83,6 +85,8 @@ Dist::Zilla::PluginBundle::Git
 Dist::Zilla::PluginBundle::TestingMania
 
 EV
+
+File::Rename
 
 File::ShareDir
 
@@ -167,6 +171,8 @@ WWW::Curl
 XML::SAX::ExpatXS
 
 common::sense
+
+forks
 
 lexicals
 
