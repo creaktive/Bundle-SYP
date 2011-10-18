@@ -50,6 +50,8 @@ Daemon::Generic
 
 Data::Printer
 
+Data::Printer::Filter::URI
+
 DateTime::Format::Strptime
 
 Devel::NYTProf
@@ -120,6 +122,8 @@ MooseX::NonMoose
 
 Net::Curl
 
+Net::Whois::Raw
+
 Number::Format
 
 Perl::Critic
@@ -165,6 +169,8 @@ URI::QueryParam
 URI::sftp
 
 Unicode::CheckUTF8
+
+Web::Scraper
 
 WWW::Curl
 
