@@ -128,8 +128,6 @@ Number::Format
 
 Perl::Critic
 
-Perl::Tags
-
 Perl::Tidy
 
 Pod::Elemental
