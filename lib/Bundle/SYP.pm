@@ -12,7 +12,7 @@ use warnings 'all';
 =head1 SYNOPSIS
 
  # Debian >= 5.0; Perl >= 5.14
- sudo apt-get install curl gcc git-core libcurl4-gnutls-dev libdb-dev libexpat-dev libncurses-dev libreadline-dev libxml2-dev
+ sudo apt-get install curl gcc git-core libssl-dev libcurl4-gnutls-dev libdb-dev libexpat-dev libncurses-dev libreadline-dev libxml2-dev
 
  perl -MCPAN -e 'install Bundle::SYP'
 
@@ -23,6 +23,8 @@ YAML
 Term::ANSIColor
 
 Object::ID
+
+Any::Moose
 
 AnyEvent::Net::Curl::Queued
 
@@ -44,6 +46,8 @@ DBD::SQLite
 
 DBIx::Class
 
+DBIx::Class::Schema::Loader
+
 DB_File
 
 Daemon::Generic
@@ -58,6 +62,8 @@ DateTime::Format::ISO8601
 
 DateTime::Format::Strptime
 
+Devel::Cover
+
 Devel::NYTProf
 
 Devel::REPL
@@ -71,6 +77,8 @@ Digest::SHA
 Digest::SHA1
 
 Dist::Zilla
+
+Dist::Zilla::App::Command::cover
 
 Dist::Zilla::Plugin::CopyFilesFromBuild
 
@@ -106,9 +114,13 @@ Geo::GoogleEarth::Pluggable
 
 HTML::AsText::Fix
 
+HTML::TreeBuilder::LibXML
+
 HTML::Untemplate
 
 HTTP::Tiny
+
+Imager
 
 JSON::Any
 
@@ -131,6 +143,8 @@ Mojolicious
 MongoDB
 
 Moose
+
+Mouse
 
 MooseX::NonMoose
 
