@@ -1,4 +1,3 @@
-#!/usr/bin/perl
 package Bundle::SYP;
 # ABSTRACT: SYP's cozy environment
 
@@ -17,6 +16,10 @@ use warnings 'all';
  perl -MCPAN -e 'install Bundle::SYP'
 
 =head1 CONTENTS
+
+Module::Install
+
+XML::LibXML
 
 YAML
 
@@ -56,6 +59,8 @@ Data::Float
 
 Data::Printer
 
+Data::Printer::Filter::JSON
+
 Data::Printer::Filter::URI
 
 DateTime::Format::ISO8601
@@ -69,6 +74,8 @@ Devel::NYTProf
 Devel::REPL
 
 Devel::REPL::Plugin::DataPrinter
+
+Devel::Trace
 
 Digest::MD5
 
@@ -108,15 +115,17 @@ File::Slurp
 
 FindBin::libs
 
+Geo::DNA
+
 Geo::Distance
 
 Geo::GoogleEarth::Pluggable
 
 HTML::AsText::Fix
 
-HTML::TreeBuilder::LibXML
+HTML::Linear
 
-HTML::Untemplate
+HTML::TreeBuilder::LibXML
 
 HTTP::Tiny
 
@@ -133,6 +142,8 @@ Lingua::PT::Nums2Words
 List::MoreUtils
 
 Log::Log4perl
+
+LWP::Protocol::Net::Curl
 
 LWP::Simple
 
