@@ -27,27 +27,17 @@ Term::ANSIColor
 
 Object::ID
 
-Any::Moose
-
 AnyEvent::Net::Curl::Queued
 
-App::Ack
-
-App::cpanminus
-
 App::cpanoutdated
+
+App::p
 
 App::pmodinfo
 
 Bash::Completion::Plugins::cpanm
 
 Bash::Completion::Plugins::perlbrew
-
-Config::General
-
-DBD::SQLite
-
-DBIx::Class
 
 DBIx::Class::Schema::Loader
 
@@ -57,8 +47,6 @@ Daemon::Generic
 
 Data::Float
 
-Data::Printer
-
 Data::Printer::Filter::JSON
 
 Data::Printer::Filter::URI
@@ -66,8 +54,6 @@ Data::Printer::Filter::URI
 DateTime::Format::ISO8601
 
 DateTime::Format::Strptime
-
-Devel::Cover
 
 Devel::NYTProf
 
@@ -77,13 +63,7 @@ Devel::REPL::Plugin::DataPrinter
 
 Devel::Trace
 
-Digest::MD5
-
-Digest::SHA
-
 Digest::SHA1
-
-Dist::Zilla
 
 Dist::Zilla::App::Command::cover
 
@@ -109,10 +89,6 @@ EV
 
 File::Rename
 
-File::ShareDir
-
-File::Slurp
-
 FindBin::libs
 
 Geo::DNA
@@ -127,37 +103,21 @@ HTML::Linear
 
 HTML::TreeBuilder::LibXML
 
-HTTP::Tiny
-
 Imager
 
-JSON::Any
-
-JSON::XS
-
 Lingua::PT::Nums2Ords
-
-Lingua::PT::Nums2Words
-
-List::MoreUtils
 
 Log::Log4perl
 
 LWP::Protocol::Net::Curl
 
-LWP::Simple
-
-Memoize
+LWP::Protocol::https
 
 Mojolicious
 
 MongoDB
 
-Moose
-
 Mouse
-
-MooseX::NonMoose
 
 Net::Whois::Raw
 
@@ -167,45 +127,27 @@ Parallel::ForkManager
 
 Perl::Critic
 
-Perl::Tidy
-
-Pod::Elemental
-
 Pod::Elemental::Transformer::List
 
-Pod::Simple
-
 Pod::Weaver::Plugin::Encoding
-
-Regexp::Common
 
 Roman
 
 Statistics::Descriptive
 
-Storable
-
 String::Similarity
 
 String::Trigram
 
-Term::ReadLine::Gnu
-
 Text::CSV
-
-Text::CSV_XS
 
 Text::Fingerprint
 
 Text::TabularDisplay
 
-Text::Unidecode
-
 Throwable
 
 Tie::Handle::CSV
-
-Tie::IxHash
 
 URI::Escape
 
@@ -224,8 +166,6 @@ WWW::Mechanize
 XML::Rabbit
 
 XML::SAX::ExpatXS
-
-common::sense
 
 forks
 
