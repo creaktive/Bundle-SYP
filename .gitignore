@@ -1,4 +1,8 @@
-.build/
-Bundle-SYP-*/
+.build/*
+Bundle-SYP-*/*
+blib/*
 *.bak
 *.gz
+Makefile
+pm_to_blib
+nytprof*

@@ -1,5 +1,5 @@
 
-#!start included /home/stanislaw.pusep/perl5/perlbrew/perls/perl-5.14.1/lib/5.14.1/ExtUtils/MANIFEST.SKIP
+#!start included /Users/stas/perl5/perlbrew/perls/perl-5.16.2/lib/5.16.2/ExtUtils/MANIFEST.SKIP
 # Avoid version control files.
 \bRCS\b
 \bCVS\b
@@ -55,6 +55,5 @@
 
 # Avoid MYMETA files
 ^MYMETA\.
-#!end included /home/stanislaw.pusep/perl5/perlbrew/perls/perl-5.14.1/lib/5.14.1/ExtUtils/MANIFEST.SKIP
+#!end included /Users/stas/perl5/perlbrew/perls/perl-5.16.2/lib/5.16.2/ExtUtils/MANIFEST.SKIP
 
-Debian_CPANTS.txt

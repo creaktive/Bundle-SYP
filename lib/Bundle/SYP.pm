@@ -67,6 +67,8 @@ Digest::SHA1
 
 Dist::Zilla::App::Command::cover
 
+Dist::Zilla::Plugin::ChangelogFromGit::CPAN::Changes
+
 Dist::Zilla::Plugin::CopyFilesFromBuild
 
 Dist::Zilla::Plugin::Git::NextVersion
@@ -126,6 +128,8 @@ Number::Format
 Parallel::ForkManager
 
 Perl::Critic
+
+Perl::Critic::Policy::Modules::ProhibitModuleShebang
 
 Pod::Elemental::Transformer::List
 
