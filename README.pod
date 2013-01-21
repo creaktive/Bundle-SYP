@@ -41,11 +41,15 @@ Bash::Completion::Plugins::cpanm
 
 Bash::Completion::Plugins::perlbrew
 
+Config::General
+
 DBIx::Class::Schema::Loader
 
 DB_File
 
 Daemon::Generic
+
+Data::DPath
 
 Data::Float
 
@@ -137,13 +141,19 @@ Pod::Elemental::Transformer::List
 
 Pod::Weaver::Plugin::Encoding
 
+Regexp::Common
+
 Roman
+
+Sort::Key::Top
 
 Statistics::Descriptive
 
 String::Similarity
 
 String::Trigram
+
+Term::ReadLine::Gnu
 
 Text::CSV
 
