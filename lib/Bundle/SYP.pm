@@ -137,8 +137,6 @@ Perl::Critic::Policy::Modules::ProhibitModuleShebang
 
 Pod::Elemental::Transformer::List
 
-Pod::Weaver::Plugin::Encoding
-
 Regexp::Common
 
 Roman
